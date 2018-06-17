@@ -1,31 +1,31 @@
 
 [
 {
-"Id":"123",
+"Id":123,
 "Name":"Vinay Bhatia",
 "School":"NCT",
 "Location":"Mumbai"
 },
 {
-"Id":"124",
+"Id":124,
 "Name":"Rahul Jaisinghani",
 "School":"New-Era",
 "Location":"Nashik"
 },
 {
-"Id":"125",
+"Id":125,
 "Name":"Akshay Kumar",
 "School":"Jai Hind",
 "Location":"Khopoli"
 },
 {
-"Id":"126",
+"Id":126,
 "Name":"Akshay Khanna",
 "School":"KC",
 "Location":"CST"
 },
 {
-"Id":"127",
+"Id":127,
 "Name":"Manav Bhatia",
 "School":"Jhulelal chs",
 "Location":"Ulhasnagar"
