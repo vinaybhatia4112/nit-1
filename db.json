@@ -1,8 +1,37 @@
 {
-  "posts": [
+  "student1": [
     {
       "id": 1,
-      "title": "hello"
+      "School":"NCT",
+"Location":"Mumbai"
+    }
+  ],
+   "student2": [
+    {
+      "id": 1,
+      "School":"NCT",
+"Location":"Mumbai"
+    }
+  ],
+   "student3": [
+    {
+      "id": 1,
+      "School":"NCT",
+"Location":"Mumbai"
+    }
+  ],
+   "student4": [
+    {
+      "id": 1,
+      "School":"NCT",
+"Location":"Mumbai"
+    }
+  ],
+   "student5": [
+    {
+      "id": 1,
+      "School":"NCT",
+"Location":"Mumbai"
     }
   ],
   "profile": {
